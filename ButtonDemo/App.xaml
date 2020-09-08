@@ -1,0 +1,11 @@
+﻿<Application
+    x:Class="WpfIconButtonDemo.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WpfIconButtonDemo"
+    StartupUri="WindowRadioImageButton.xaml">
+
+    <!--  StartupUri="MainWindow.xaml"  -->
+
+    <Application.Resources />
+</Application>
