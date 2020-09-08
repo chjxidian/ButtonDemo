@@ -42,7 +42,7 @@
                 Margin="2,5"
                 VerticalAlignment="Top"
                 Cursor="Hand"
-                ImageSource="/WpfIconButtonDemo;component/Image/CompoundOptimization.png"
+                ImageSource="/ButtonDemo;component/Image/CompoundOptimization.png"
                 Text="营业厅" />
 
             <lib:ImageRadioButton
